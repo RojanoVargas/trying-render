@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <p>Hello from Render</p>
+      <p>Hello from Render (after changes)</p>
     </>
   )
 }
